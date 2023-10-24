@@ -1,4 +1,4 @@
-{"data":[
+{"data": [
     {"nama": "Cappucino Panas","img": "assets/minum2.png","harga": 2.00,"rating": 4.5,"deskripsi":"Cappuccino Panas diseduhi dengan Topping Americano.secangkir kopi nikmat yang atasnya dipenuhi buih (milk foam) yang bagian dasarnya dipenuhi espresso mixed susu,"},
     {"nama": "Mocha Latte","img": "assets/minum2.png","harga": 2.19,"rating": 4.5,"deskripsi":"Mocha Latte  merupakan kombinasi dari cokelat dan Espresso yang menghasilkan rasa manis, kuat, dan nikmat dalam satu tegukan.biasanya menggunakan dark chocolate yang dicampur dengan seduhan Espresso, lalu diaduk, kemudian disajikan dengan Latte style steamed milk."},
     {"nama": "Kopi Hitam","img": "assets/minum2.png","harga": 1.95,"rating": 4.5,"deskripsi":"Black coffee adalah salah satu minuman kopi yang biasanya dibuat dengan menggunakan mesin yang bisa menghasilkan kopi dengan rasa yang pahit."},
@@ -12,4 +12,6 @@
     {"nama": "Waffle Belgia","img": "assets/Snack4.png","harga": 10.0,"rating": 4.5,"deskripsi":"Belgian Waffle merupakan kudapan khas yang berasal dari Belgia dengan adonan berbasis kue berbahan dasar tepung terigu yang dimasak dengan besi waffle bermotif untuk memberikan bentuk dan ciri yang khas."},
     {"nama": "Roti Selai Panini","img": "assets/Snack3.png","harga": 10.0,"rating": 4.5,"deskripsi":"roti ini diberi isian peanut butter alias selai kacang yang crunchy."},
     {"nama": "Cinnamon Roll","img": "assets/Snack5.png","harga": 10.5,"rating": 4.5,"deskripsi":"Burger isi daging ayam yang dibalut dengan keju mozzarella serta tomat dan selada dengan tambahan kentang goreng"},
-    {"nama": "Roti Tuna","img": "assets/Snack2.png","harga": 10.0,"rating": 4.5,"deskripsi":"Cinnamon roll merupkaan roti gulung yang berisikan gula palem dengan bubuk kayu manis dan cream cheese frosting sebagai toppingnya."}]}
+    {"nama": "Roti Tuna","img": "assets/Snack2.png","harga": 10.0,"rating": 4.5,"deskripsi":"Cinnamon roll merupkaan roti gulung yang berisikan gula palem dengan bubuk kayu manis dan cream cheese frosting sebagai toppingnya."}
+    ]
+}
